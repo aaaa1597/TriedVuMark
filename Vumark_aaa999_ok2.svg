@@ -89,46 +89,46 @@
     <polygon id="contour" points="2 2.432 168 2.432 168 98.432 2 98.432 2 2.432" style="fill: none; stroke: #e4007f;"/>
   </g>
   <g id="VuMark-AsymmetryMarker">
-    <polygon points="152.963 11.778 160.414 6.254 160.193 10.986 164.091 11.813 152.963 11.778" style="fill: #fff;"/>
+    <rect x="157" y="5.932" width="7.5" height="7.5" style="fill: #fff;"/>
   </g>
   <g id="VuMark-Feedback">
-    <rect x="-3.1" y="-2.669" width="176.2" height="106.2" style="fill: none; stroke: #e4007f;"/>
-    <circle id="c0007" cx="9" cy="64.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0001" cx="9" cy="74.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0000" cx="9" cy="79.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0003" cx="9" cy="84.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0005" cx="9" cy="54.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0006" cx="9" cy="49.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0002" cx="9" cy="69.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0004" cx="9" cy="59.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0008" cx="19.366" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0009" cx="24.524" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0010" cx="29.682" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0011" cx="34.839" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0012" cx="39.997" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0013" cx="45.155" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0014" cx="50.312" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0015" cx="55.47" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0016" cx="60.628" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0017" cx="65.785" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0018" cx="118.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0019" cx="123.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0020" cx="128.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0021" cx="133.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0022" cx="138.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0023" cx="143.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0024" cx="148.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0025" cx="153.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0027" cx="160.326" cy="52.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0026" cx="160.326" cy="47.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0031" cx="160.326" cy="42.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0028" cx="160.326" cy="37.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0032" cx="160.326" cy="17.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0033" cx="160.326" cy="22.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0030" cx="160.326" cy="27.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0029" cx="160.326" cy="32.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <rect x="-3.1" y="-2.669" width="176.2" height="106.2" style="fill: none; stroke: #e4007f;"/>
-    <path id="MinimumContourClearSpace" d="M2,2.432h166v96H2V2.432ZM7.1,93.332V7.532h155.8v85.8H7.1Z" style="fill: #e4007f; fill-rule: evenodd; opacity: .5;"/>
+    <rect x="-3.01" y="-2.578" width="176.02" height="106.02" style="fill: none; stroke: #e4007f;"/>
+    <circle id="c0007" cx="9" cy="64.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0001" cx="9" cy="74.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0000" cx="9" cy="79.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0003" cx="9" cy="84.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0005" cx="9" cy="54.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0006" cx="9" cy="49.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0002" cx="9" cy="69.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0004" cx="9" cy="59.932" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0008" cx="19.366" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0009" cx="24.524" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0010" cx="29.682" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0011" cx="34.839" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0012" cx="39.997" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0013" cx="45.155" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0014" cx="50.312" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0015" cx="55.47" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0016" cx="60.628" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0017" cx="65.785" cy="9.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0018" cx="118.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0019" cx="123.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0020" cx="128.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0021" cx="133.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0022" cx="138.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0023" cx="143.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0024" cx="148.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0025" cx="153.39" cy="91.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0027" cx="160.326" cy="52.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0026" cx="160.326" cy="47.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0031" cx="160.326" cy="42.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0028" cx="160.326" cy="37.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0032" cx="160.326" cy="17.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0033" cx="160.326" cy="22.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0030" cx="160.326" cy="27.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0029" cx="160.326" cy="32.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <rect x="-3.01" y="-2.578" width="176.02" height="106.02" style="fill: none; stroke: #e4007f;"/>
+    <path id="MinimumContourClearSpace" d="M2,2.432h166v96H2V2.432ZM7.01,93.422V7.441h155.98v85.98H7.01Z" style="fill: #e4007f; fill-rule: evenodd; opacity: .5;"/>
   </g>
   <g id="VuMark-Description">
     <g id="VuMark:Vumark_x5F_aaa999">
