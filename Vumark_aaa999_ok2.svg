@@ -5,82 +5,82 @@
     <rect width="170" height="100" style="fill: #fff;"/>
   </g>
   <g id="VuMark-Border">
-    <rect x="5" y="5.358" width="160" height="12" style="fill: #231815;"/>
-    <rect x="5" y="83.432" width="160" height="12" style="fill: #231815;"/>
-    <rect x="153" y="16.932" width="12" height="67" style="fill: #231815;"/>
-    <rect x="5" y="16.432" width="12" height="68" style="fill: #231815;"/>
+    <rect x="5" y="5.358" width="160" height="8" style="fill: #231815;"/>
+    <rect x="5" y="87.432" width="160" height="8" style="fill: #231815;"/>
+    <rect x="156" y="11.932" width="9" height="76" style="fill: #231815;"/>
+    <rect x="5" y="12.932" width="8" height="75" style="fill: #231815;"/>
   </g>
   <g id="VuMark-DarkElements">
-    <polygon id="d0008" points="8.866 9.932 13.866 9.932 13.866 14.932 8.866 14.932 8.866 9.932" style="fill: #040000;"/>
-    <polygon id="d0009" points="14.024 9.932 19.024 9.932 19.024 14.932 14.024 14.932 14.024 9.932" style="fill: #040000;"/>
-    <polygon id="d0010" points="19.182 9.932 24.182 9.932 24.182 14.932 19.182 14.932 19.182 9.932" style="fill: #040000;"/>
-    <polygon id="d0011" points="24.339 9.932 29.339 9.932 29.339 14.932 24.339 14.932 24.339 9.932" style="fill: #040000;"/>
-    <polygon id="d0012" points="29.497 9.932 34.497 9.932 34.497 14.932 29.497 14.932 29.497 9.932" style="fill: #040000;"/>
-    <polygon id="d0013" points="34.655 9.932 39.655 9.932 39.655 14.932 34.655 14.932 34.655 9.932" style="fill: #040000;"/>
-    <polygon id="d0014" points="39.812 9.932 44.812 9.932 44.812 14.932 39.812 14.932 39.812 9.932" style="fill: #040000;"/>
-    <polygon id="d0015" points="44.97 9.932 49.97 9.932 49.97 14.932 44.97 14.932 44.97 9.932" style="fill: #040000;"/>
-    <polygon id="d0016" points="50.128 9.932 55.128 9.932 55.128 14.932 50.128 14.932 50.128 9.932" style="fill: #040000;"/>
-    <polygon id="d0017" points="55.285 9.932 60.285 9.932 60.285 14.932 55.285 14.932 55.285 9.932" style="fill: #040000;"/>
-    <polygon id="d0032" points="155.826 17.785 160.826 17.785 160.826 22.785 155.826 22.785 155.826 17.785" style="fill: #040000;"/>
-    <polygon id="d0033" points="155.826 24.195 160.826 24.195 160.826 29.195 155.826 29.195 155.826 24.195" style="fill: #040000;"/>
-    <polygon id="d0030" points="155.826 30.606 160.826 30.606 160.826 35.606 155.826 35.606 155.826 30.606" style="fill: #040000;"/>
-    <polygon id="d0029" points="155.826 37.016 160.826 37.016 160.826 42.016 155.826 42.016 155.826 37.016" style="fill: #040000;"/>
-    <polygon id="d0028" points="155.826 43.426 160.826 43.426 160.826 48.426 155.826 48.426 155.826 43.426" style="fill: #040000;"/>
-    <polygon id="d0031" points="155.826 49.836 160.826 49.836 160.826 54.836 155.826 54.836 155.826 49.836" style="fill: #040000;"/>
-    <polygon id="d0026" points="155.826 56.247 160.826 56.247 160.826 61.247 155.826 61.247 155.826 56.247" style="fill: #040000;"/>
-    <polygon id="d0027" points="155.826 62.657 160.826 62.657 160.826 67.657 155.826 67.657 155.826 62.657" style="fill: #040000;"/>
-    <polygon id="d0025" points="154.698 84.721 159.826 84.721 159.826 89.721 154.698 89.721 154.698 84.721" style="fill: #040000;"/>
-    <polygon id="d0024" points="148.288 84.721 153.416 84.721 153.416 89.721 148.288 89.721 148.288 84.721" style="fill: #040000;"/>
-    <polygon id="d0023" points="141.878 84.721 147.006 84.721 147.006 89.721 141.878 89.721 141.878 84.721" style="fill: #040000;"/>
-    <polygon id="d0022" points="135.467 84.721 140.596 84.721 140.596 89.721 135.467 89.721 135.467 84.721" style="fill: #040000;"/>
-    <polygon id="d0021" points="129.057 84.721 134.185 84.721 134.185 89.721 129.057 89.721 129.057 84.721" style="fill: #040000;"/>
-    <polygon id="d0020" points="122.647 84.721 127.775 84.721 127.775 89.721 122.647 89.721 122.647 84.721" style="fill: #040000;"/>
-    <polygon id="d0019" points="116.237 84.721 121.365 84.721 121.365 89.721 116.237 89.721 116.237 84.721" style="fill: #040000;"/>
-    <polygon id="d0018" points="109.826 84.721 114.955 84.721 114.955 89.721 109.826 89.721 109.826 84.721" style="fill: #040000;"/>
-    <polygon id="d0003" points="9.826 84.593 14.826 84.593 14.826 89.721 9.826 89.721 9.826 84.593" style="fill: #040000;"/>
-    <polygon id="d0000" points="9.826 78.183 14.826 78.183 14.826 83.311 9.826 83.311 9.826 78.183" style="fill: #040000;"/>
-    <polygon id="d0001" points="9.826 71.772 14.826 71.772 14.826 76.901 9.826 76.901 9.826 71.772" style="fill: #040000;"/>
-    <polygon id="d0002" points="9.826 65.362 14.826 65.362 14.826 70.49 9.826 70.49 9.826 65.362" style="fill: #040000;"/>
-    <polygon id="d0007" points="9.826 58.952 14.826 58.952 14.826 64.08 9.826 64.08 9.826 58.952" style="fill: #040000;"/>
-    <polygon id="d0004" points="9.826 52.542 14.826 52.542 14.826 57.67 9.826 57.67 9.826 52.542" style="fill: #040000;"/>
-    <polygon id="d0005" points="9.826 46.131 14.826 46.131 14.826 51.26 9.826 51.26 9.826 46.131" style="fill: #040000;"/>
-    <polygon id="d0006" points="9.826 39.721 14.826 39.721 14.826 44.849 9.826 44.849 9.826 39.721" style="fill: #040000;"/>
+    <polygon id="d0008" points="16.866 6.932 21.866 6.932 21.866 11.932 16.866 11.932 16.866 6.932" style="fill: #040000;"/>
+    <polygon id="d0009" points="22.024 6.932 27.024 6.932 27.024 11.932 22.024 11.932 22.024 6.932" style="fill: #040000;"/>
+    <polygon id="d0010" points="27.182 6.932 32.182 6.932 32.182 11.932 27.182 11.932 27.182 6.932" style="fill: #040000;"/>
+    <polygon id="d0011" points="32.339 6.932 37.339 6.932 37.339 11.932 32.339 11.932 32.339 6.932" style="fill: #040000;"/>
+    <polygon id="d0012" points="37.497 6.932 42.497 6.932 42.497 11.932 37.497 11.932 37.497 6.932" style="fill: #040000;"/>
+    <polygon id="d0013" points="42.655 6.932 47.655 6.932 47.655 11.932 42.655 11.932 42.655 6.932" style="fill: #040000;"/>
+    <polygon id="d0014" points="47.812 6.932 52.812 6.932 52.812 11.932 47.812 11.932 47.812 6.932" style="fill: #040000;"/>
+    <polygon id="d0015" points="52.97 6.932 57.97 6.932 57.97 11.932 52.97 11.932 52.97 6.932" style="fill: #040000;"/>
+    <polygon id="d0016" points="58.128 6.932 63.128 6.932 63.128 11.932 58.128 11.932 58.128 6.932" style="fill: #040000;"/>
+    <polygon id="d0017" points="63.285 6.932 68.285 6.932 68.285 11.932 63.285 11.932 63.285 6.932" style="fill: #040000;"/>
+    <polygon id="d0032" points="157.826 14.657 162.826 14.657 162.826 19.657 157.826 19.657 157.826 14.657" style="fill: #040000;"/>
+    <polygon id="d0033" points="157.826 19.657 162.826 19.657 162.826 24.657 157.826 24.657 157.826 19.657" style="fill: #040000;"/>
+    <polygon id="d0030" points="157.826 24.657 162.826 24.657 162.826 29.657 157.826 29.657 157.826 24.657" style="fill: #040000;"/>
+    <polygon id="d0029" points="157.826 29.657 162.826 29.657 162.826 34.657 157.826 34.657 157.826 29.657" style="fill: #040000;"/>
+    <polygon id="d0028" points="157.826 34.657 162.826 34.657 162.826 39.657 157.826 39.657 157.826 34.657" style="fill: #040000;"/>
+    <polygon id="d0031" points="157.826 39.657 162.826 39.657 162.826 44.657 157.826 44.657 157.826 39.657" style="fill: #040000;"/>
+    <polygon id="d0026" points="157.826 44.657 162.826 44.657 162.826 49.657 157.826 49.657 157.826 44.657" style="fill: #040000;"/>
+    <polygon id="d0027" points="157.826 49.657 162.826 49.657 162.826 54.657 157.826 54.657 157.826 49.657" style="fill: #040000;"/>
+    <polygon id="d0025" points="150.89 88.932 155.89 88.932 155.89 93.932 150.89 93.932 150.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0024" points="145.89 88.932 150.89 88.932 150.89 93.932 145.89 93.932 145.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0023" points="140.89 88.932 145.89 88.932 145.89 93.932 140.89 93.932 140.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0022" points="135.89 88.932 140.89 88.932 140.89 93.932 135.89 93.932 135.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0021" points="130.89 88.932 135.89 88.932 135.89 93.932 130.89 93.932 130.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0020" points="125.89 88.932 130.89 88.932 130.89 93.932 125.89 93.932 125.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0019" points="120.89 88.932 125.89 88.932 125.89 93.932 120.89 93.932 120.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0018" points="115.89 88.932 120.89 88.932 120.89 93.932 115.89 93.932 115.89 88.932" style="fill: #040000;"/>
+    <polygon id="d0003" points="6.5 82.432 11.5 82.432 11.5 87.432 6.5 87.432 6.5 82.432" style="fill: #040000;"/>
+    <polygon id="d0000" points="6.5 77.432 11.5 77.432 11.5 82.432 6.5 82.432 6.5 77.432" style="fill: #040000;"/>
+    <polygon id="d0001" points="6.5 72.432 11.5 72.432 11.5 77.432 6.5 77.432 6.5 72.432" style="fill: #040000;"/>
+    <polygon id="d0002" points="6.5 67.432 11.5 67.432 11.5 72.432 6.5 72.432 6.5 67.432" style="fill: #040000;"/>
+    <polygon id="d0007" points="6.5 62.432 11.5 62.432 11.5 67.432 6.5 67.432 6.5 62.432" style="fill: #040000;"/>
+    <polygon id="d0004" points="6.5 57.432 11.5 57.432 11.5 62.432 6.5 62.432 6.5 57.432" style="fill: #040000;"/>
+    <polygon id="d0005" points="6.5 52.432 11.5 52.432 11.5 57.432 6.5 57.432 6.5 52.432" style="fill: #040000;"/>
+    <polygon id="d0006" points="6.5 47.432 11.5 47.432 11.5 52.432 6.5 52.432 6.5 47.432" style="fill: #040000;"/>
   </g>
   <g id="VuMark-BrightElements">
-    <polygon id="b0008" points="8.866 9.932 13.866 9.932 13.866 14.932 8.866 14.932 8.866 9.932" style="fill: #fff;"/>
-    <polygon id="b0009" points="14.024 9.932 19.024 9.932 19.024 14.932 14.024 14.932 14.024 9.932" style="fill: #fff;"/>
-    <polygon id="b0010" points="19.182 9.932 24.182 9.932 24.182 14.932 19.182 14.932 19.182 9.932" style="fill: #fff;"/>
-    <polygon id="b0011" points="24.339 9.932 29.339 9.932 29.339 14.932 24.339 14.932 24.339 9.932" style="fill: #fff;"/>
-    <polygon id="b0012" points="29.497 9.932 34.497 9.932 34.497 14.932 29.497 14.932 29.497 9.932" style="fill: #fff;"/>
-    <polygon id="b0013" points="34.655 9.932 39.655 9.932 39.655 14.932 34.655 14.932 34.655 9.932" style="fill: #fff;"/>
-    <polygon id="b0014" points="39.812 9.932 44.812 9.932 44.812 14.932 39.812 14.932 39.812 9.932" style="fill: #fff;"/>
-    <polygon id="b0015" points="44.97 9.932 49.97 9.932 49.97 14.932 44.97 14.932 44.97 9.932" style="fill: #fff;"/>
-    <polygon id="b0016" points="50.128 9.932 55.128 9.932 55.128 14.932 50.128 14.932 50.128 9.932" style="fill: #fff;"/>
-    <polygon id="b0017" points="55.285 9.932 60.285 9.932 60.285 14.932 55.285 14.932 55.285 9.932" style="fill: #fff;"/>
-    <polygon id="b0032" points="155.826 17.785 160.826 17.785 160.826 22.785 155.826 22.785 155.826 17.785" style="fill: #fff;"/>
-    <polygon id="b0033" points="155.826 24.195 160.826 24.195 160.826 29.195 155.826 29.195 155.826 24.195" style="fill: #fff;"/>
-    <polygon id="b0030" points="155.826 30.606 160.826 30.606 160.826 35.606 155.826 35.606 155.826 30.606" style="fill: #fff;"/>
-    <polygon id="b0029" points="155.826 37.016 160.826 37.016 160.826 42.016 155.826 42.016 155.826 37.016" style="fill: #fff;"/>
-    <polygon id="b0028" points="155.826 43.426 160.826 43.426 160.826 48.426 155.826 48.426 155.826 43.426" style="fill: #fff;"/>
-    <polygon id="b0031" points="155.826 49.836 160.826 49.836 160.826 54.836 155.826 54.836 155.826 49.836" style="fill: #fff;"/>
-    <polygon id="b0026" points="155.826 56.247 160.826 56.247 160.826 61.247 155.826 61.247 155.826 56.247" style="fill: #fff;"/>
-    <polygon id="b0027" points="155.826 62.657 160.826 62.657 160.826 67.657 155.826 67.657 155.826 62.657" style="fill: #fff;"/>
-    <polygon id="b0025" points="154.698 84.721 159.826 84.721 159.826 89.721 154.698 89.721 154.698 84.721" style="fill: #fff;"/>
-    <polygon id="b0024" points="148.288 84.721 153.416 84.721 153.416 89.721 148.288 89.721 148.288 84.721" style="fill: #fff;"/>
-    <polygon id="b0023" points="141.878 84.721 147.006 84.721 147.006 89.721 141.878 89.721 141.878 84.721" style="fill: #fff;"/>
-    <polygon id="b0022" points="135.467 84.721 140.596 84.721 140.596 89.721 135.467 89.721 135.467 84.721" style="fill: #fff;"/>
-    <polygon id="b0021" points="129.057 84.721 134.185 84.721 134.185 89.721 129.057 89.721 129.057 84.721" style="fill: #fff;"/>
-    <polygon id="b0020" points="122.647 84.721 127.775 84.721 127.775 89.721 122.647 89.721 122.647 84.721" style="fill: #fff;"/>
-    <polygon id="b0019" points="116.237 84.721 121.365 84.721 121.365 89.721 116.237 89.721 116.237 84.721" style="fill: #fff;"/>
-    <polygon id="b0018" points="109.826 84.721 114.955 84.721 114.955 89.721 109.826 89.721 109.826 84.721" style="fill: #fff;"/>
-    <polygon id="b0003" points="9.826 84.593 14.826 84.593 14.826 89.721 9.826 89.721 9.826 84.593" style="fill: #fff;"/>
-    <polygon id="b0000" points="9.826 78.183 14.826 78.183 14.826 83.311 9.826 83.311 9.826 78.183" style="fill: #fff;"/>
-    <polygon id="b0001" points="9.826 71.772 14.826 71.772 14.826 76.901 9.826 76.901 9.826 71.772" style="fill: #fff;"/>
-    <polygon id="b0002" points="9.826 65.362 14.826 65.362 14.826 70.49 9.826 70.49 9.826 65.362" style="fill: #fff;"/>
-    <polygon id="b0007" points="9.826 58.952 14.826 58.952 14.826 64.08 9.826 64.08 9.826 58.952" style="fill: #fff;"/>
-    <polygon id="b0004" points="9.826 52.542 14.826 52.542 14.826 57.67 9.826 57.67 9.826 52.542" style="fill: #fff;"/>
-    <polygon id="b0005" points="9.826 46.131 14.826 46.131 14.826 51.26 9.826 51.26 9.826 46.131" style="fill: #fff;"/>
-    <polygon id="b0006" points="9.826 39.721 14.826 39.721 14.826 44.849 9.826 44.849 9.826 39.721" style="fill: #fff;"/>
+    <polygon id="b0008" points="16.866 6.932 21.866 6.932 21.866 11.932 16.866 11.932 16.866 6.932" style="fill: #fff;"/>
+    <polygon id="b0009" points="22.024 6.932 27.024 6.932 27.024 11.932 22.024 11.932 22.024 6.932" style="fill: #fff;"/>
+    <polygon id="b0010" points="27.182 6.932 32.182 6.932 32.182 11.932 27.182 11.932 27.182 6.932" style="fill: #fff;"/>
+    <polygon id="b0011" points="32.339 6.932 37.339 6.932 37.339 11.932 32.339 11.932 32.339 6.932" style="fill: #fff;"/>
+    <polygon id="b0012" points="37.497 6.932 42.497 6.932 42.497 11.932 37.497 11.932 37.497 6.932" style="fill: #fff;"/>
+    <polygon id="b0013" points="42.655 6.932 47.655 6.932 47.655 11.932 42.655 11.932 42.655 6.932" style="fill: #fff;"/>
+    <polygon id="b0014" points="47.812 6.932 52.812 6.932 52.812 11.932 47.812 11.932 47.812 6.932" style="fill: #fff;"/>
+    <polygon id="b0015" points="52.97 6.932 57.97 6.932 57.97 11.932 52.97 11.932 52.97 6.932" style="fill: #fff;"/>
+    <polygon id="b0016" points="58.128 6.932 63.128 6.932 63.128 11.932 58.128 11.932 58.128 6.932" style="fill: #fff;"/>
+    <polygon id="b0017" points="63.285 6.932 68.285 6.932 68.285 11.932 63.285 11.932 63.285 6.932" style="fill: #fff;"/>
+    <polygon id="b0032" points="157.826 14.657 162.826 14.657 162.826 19.657 157.826 19.657 157.826 14.657" style="fill: #fff;"/>
+    <polygon id="b0033" points="157.826 19.657 162.826 19.657 162.826 24.657 157.826 24.657 157.826 19.657" style="fill: #fff;"/>
+    <polygon id="b0030" points="157.826 24.657 162.826 24.657 162.826 29.657 157.826 29.657 157.826 24.657" style="fill: #fff;"/>
+    <polygon id="b0029" points="157.826 29.657 162.826 29.657 162.826 34.657 157.826 34.657 157.826 29.657" style="fill: #fff;"/>
+    <polygon id="b0028" points="157.826 34.657 162.826 34.657 162.826 39.657 157.826 39.657 157.826 34.657" style="fill: #fff;"/>
+    <polygon id="b0031" points="157.826 39.657 162.826 39.657 162.826 44.657 157.826 44.657 157.826 39.657" style="fill: #fff;"/>
+    <polygon id="b0026" points="157.826 44.657 162.826 44.657 162.826 49.657 157.826 49.657 157.826 44.657" style="fill: #fff;"/>
+    <polygon id="b0027" points="157.826 49.657 162.826 49.657 162.826 54.657 157.826 54.657 157.826 49.657" style="fill: #fff;"/>
+    <polygon id="b0025" points="150.89 88.932 155.89 88.932 155.89 93.932 150.89 93.932 150.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0024" points="145.89 88.932 150.89 88.932 150.89 93.932 145.89 93.932 145.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0023" points="140.89 88.932 145.89 88.932 145.89 93.932 140.89 93.932 140.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0022" points="135.89 88.932 140.89 88.932 140.89 93.932 135.89 93.932 135.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0021" points="130.89 88.932 135.89 88.932 135.89 93.932 130.89 93.932 130.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0020" points="125.89 88.932 130.89 88.932 130.89 93.932 125.89 93.932 125.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0019" points="120.89 88.932 125.89 88.932 125.89 93.932 120.89 93.932 120.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0018" points="115.89 88.932 120.89 88.932 120.89 93.932 115.89 93.932 115.89 88.932" style="fill: #fff;"/>
+    <polygon id="b0003" points="6.5 82.432 11.5 82.432 11.5 87.432 6.5 87.432 6.5 82.432" style="fill: #fff;"/>
+    <polygon id="b0000" points="6.5 77.432 11.5 77.432 11.5 82.432 6.5 82.432 6.5 77.432" style="fill: #fff;"/>
+    <polygon id="b0001" points="6.5 72.432 11.5 72.432 11.5 77.432 6.5 77.432 6.5 72.432" style="fill: #fff;"/>
+    <polygon id="b0002" points="6.5 67.432 11.5 67.432 11.5 72.432 6.5 72.432 6.5 67.432" style="fill: #fff;"/>
+    <polygon id="b0007" points="6.5 62.432 11.5 62.432 11.5 67.432 6.5 67.432 6.5 62.432" style="fill: #fff;"/>
+    <polygon id="b0004" points="6.5 57.432 11.5 57.432 11.5 62.432 6.5 62.432 6.5 57.432" style="fill: #fff;"/>
+    <polygon id="b0005" points="6.5 52.432 11.5 52.432 11.5 57.432 6.5 57.432 6.5 52.432" style="fill: #fff;"/>
+    <polygon id="b0006" points="6.5 47.432 11.5 47.432 11.5 52.432 6.5 52.432 6.5 47.432" style="fill: #fff;"/>
   </g>
   <g id="VuMark-Origin">
     <circle id="VuMark_Origin_Locator" cx="85" cy="50.432" r="2" style="fill: none; stroke: #898989; stroke-miterlimit: 10; stroke-width: 2px;"/>
@@ -89,46 +89,46 @@
     <polygon id="contour" points="2 2.432 168 2.432 168 98.432 2 98.432 2 2.432" style="fill: none; stroke: #e4007f;"/>
   </g>
   <g id="VuMark-AsymmetryMarker">
-    <rect x="157" y="5.432" width="8" height="8" style="fill: #fff;"/>
+    <polygon points="152.963 11.778 160.414 6.254 160.193 10.986 164.091 11.813 152.963 11.778" style="fill: #fff;"/>
   </g>
   <g id="VuMark-Feedback">
-    <rect x="-3.01" y="-2.578" width="176.02" height="106.02" style="fill: none; stroke: #e4007f;"/>
-    <circle id="c0008" cx="11.366" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0004" cx="12.326" cy="55.106" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0000" cx="12.326" cy="80.747" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0007" cx="12.326" cy="61.516" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0006" cx="12.326" cy="42.285" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0005" cx="12.326" cy="48.695" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0003" cx="12.326" cy="87.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0001" cx="12.326" cy="74.336" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0002" cx="12.326" cy="67.926" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0009" cx="16.524" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0010" cx="21.682" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0011" cx="26.839" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0012" cx="31.997" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0013" cx="37.155" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0014" cx="42.312" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0015" cx="47.47" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0016" cx="52.628" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0017" cx="57.785" cy="12.432" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0018" cx="112.39" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0019" cx="118.801" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0020" cx="125.211" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0021" cx="131.621" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0022" cx="138.031" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0023" cx="144.442" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0024" cx="150.852" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0025" cx="157.262" cy="87.221" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0030" cx="158.326" cy="33.106" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0029" cx="158.326" cy="39.516" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0028" cx="158.326" cy="45.926" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0031" cx="158.326" cy="52.336" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0026" cx="158.326" cy="58.747" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0027" cx="158.326" cy="65.157" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0033" cx="158.326" cy="26.695" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <circle id="c0032" cx="158.326" cy="20.285" r="2.505" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
-    <rect x="-3.01" y="-2.578" width="176.02" height="106.02" style="fill: none; stroke: #e4007f;"/>
-    <path id="MinimumContourClearSpace" d="M2,2.432h166v96H2V2.432ZM7.01,93.422V7.441h155.98v85.98H7.01Z" style="fill: #e4007f; fill-rule: evenodd; opacity: .5;"/>
+    <rect x="-3.1" y="-2.669" width="176.2" height="106.2" style="fill: none; stroke: #e4007f;"/>
+    <circle id="c0007" cx="9" cy="64.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0001" cx="9" cy="74.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0000" cx="9" cy="79.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0003" cx="9" cy="84.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0005" cx="9" cy="54.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0006" cx="9" cy="49.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0002" cx="9" cy="69.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0004" cx="9" cy="59.932" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0008" cx="19.366" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0009" cx="24.524" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0010" cx="29.682" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0011" cx="34.839" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0012" cx="39.997" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0013" cx="45.155" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0014" cx="50.312" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0015" cx="55.47" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0016" cx="60.628" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0017" cx="65.785" cy="9.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0018" cx="118.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0019" cx="123.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0020" cx="128.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0021" cx="133.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0022" cx="138.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0023" cx="143.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0024" cx="148.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0025" cx="153.39" cy="91.432" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0027" cx="160.326" cy="52.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0026" cx="160.326" cy="47.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0031" cx="160.326" cy="42.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0028" cx="160.326" cy="37.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0032" cx="160.326" cy="17.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0033" cx="160.326" cy="22.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0030" cx="160.326" cy="27.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <circle id="c0029" cx="160.326" cy="32.157" r="2.55" style="fill: none; stroke: #e4007f; stroke-miterlimit: 10; stroke-width: .75px;"/>
+    <rect x="-3.1" y="-2.669" width="176.2" height="106.2" style="fill: none; stroke: #e4007f;"/>
+    <path id="MinimumContourClearSpace" d="M2,2.432h166v96H2V2.432ZM7.1,93.332V7.532h155.8v85.8H7.1Z" style="fill: #e4007f; fill-rule: evenodd; opacity: .5;"/>
   </g>
   <g id="VuMark-Description">
     <g id="VuMark:Vumark_x5F_aaa999">
